@@ -1,62 +1,46 @@
-# alexasum
-[Word Document Content]
+# 👋 Hi, I'm Alex Asum Ahensah
 
-Alex Asum Ahensah
-Bristow, VA | (202) 924-0990 | a.ahensah@yahoo.com
-LinkedIn: linkedin.com/in/alex-asum-ahensah-521940166 | GitHub: github.com/asumahensah
+📍 Bristow, VA | 📧 a.ahensah@yahoo.com | 📞 (202) 924-0990  
+[LinkedIn](https://linkedin.com/in/alex-asum-ahensah-62a259306)
 
-BUSINESS ANALYST | DATA-DRIVEN STRATEGIST
+## 🎓 Education
+*MBA in Business Analytics*  
+University of Findlay (In Progress, Expected 2026)  
+- GPA: 3.02 | Program GPA: 3.29  
+- Relevant Coursework: Data Mining, Predictive Analytics, Financial Modeling, HR Management
 
-Professional Summary:
-Results-oriented analytics professional with expertise in SQL, Python, and BI tools. Proven ability to transform data into actionable insights that drive operational improvements and revenue growth across multiple sectors. Currently pursuing MBA in Business Analytics to enhance technical and strategic capabilities.
+*Bachelor's in Geography*  
+University of Education, Winneba, Ghana  
+- Focus: Spatial Analysis, Urban Planning, Environmental Studies
 
-TECHNICAL SKILLS:
-• Programming: SQL, Python (Pandas, NumPy), SPSS
-• Data Visualization: Tableau, Power BI, Excel (VLOOKUP, PivotTables)
-• Analytics: Predictive Modeling, Regression Analysis, Statistical Analysis
-• Databases: SQL Server, MySQL
-• Tools: Git/GitHub, PowerPoint, MS Office Suite
+## 💻 Technical Skills
+- *Programming & Analysis*: Python, SQL, SPSS  
+- *Business Intelligence*: Tableau, Power BI, Excel (VLOOKUP, PivotTables)  
+- *Database Tools*: SQL Server, MySQL  
+- *Statistical Methods*: Regression Analysis, Predictive Analytics  
+- *Soft Skills*: Leadership, Critical Thinking, Communication, Problem-Solving
 
-PROFESSIONAL EXPERIENCE:
+## 🧠 Projects & Achievements
+- *Revenue Collection Model*: Developed a tax risk algorithm, boosting collections by 15%.  
+- *Sales Forecasting Capstone*: Predicted consumer trends using Python and Tableau.  
+- *Customer Experience Optimization*: Improved satisfaction scores by 20% through data-driven personalization.  
+- *Curriculum Innovation*: Modernized high school geography curriculum using applied case studies.
 
-Youth For Tomorrow, Bristow, VA
-Residential Counselor | Mar 2022 - Present
-• Developed data tracking system that reduced behavioral incidents by 30%
-• Created performance dashboards to monitor resident progress metrics
-• Managed compliance documentation for 15+ at-risk youth under strict regulations
+## 💼 Professional Experience
+*Residential Counselor* – Youth For Tomorrow, VA (2022–2025)  
+- Managed youth behavior programs and ensured DBHDS/DSS compliance.  
+- Conducted drug screenings and maintained documentation.
 
-Ghana Revenue Authority, Accra, Ghana
-Revenue Officer | Apr 2015 - Aug 2016
-• Built predictive tax evasion model that increased revenue collections by 15%
-• Conducted 50+ annual audits, recovering significant unpaid liabilities
-• Led taxpayer education workshops that improved voluntary compliance
+*Sales Associate* – Restoration Hardware, VA (2018)  
+- Delivered tailored customer experiences in a luxury retail environment.
 
-Restoration Hardware, Leesburg, VA
-Sales Associate | Sep 2018 - Dec 2018
-• Increased customer satisfaction scores by 20% through data-informed service
-• Consistently exceeded monthly sales targets by 15-20%
+*Revenue Officer* – Ghana Revenue Authority (2015–2016)  
+- Enforced tax policies and led digital transformation initiatives.
 
-Ashaiman Senior High School, Ghana
-Geography Instructor | Jul 2012 - Aug 2014
-• Integrated data analysis and GIS technology into curriculum
-• Mentored 100+ students in spatial analysis and research projects
+*Geography Instructor* – Ashaiman Senior High School (2012–2014)  
+- Led educational fieldwork and mentored students in spatial analysis.
 
-EDUCATION:
-University of Findlay, OH
-MBA in Business Analytics (Expected 2024)
-• Coursework: Data Visualization, Predictive Analytics, Financial Modeling
-
-University of Education, Winneba, Ghana
-Bachelor's Degree in Geography
-• Focus: Urban Planning, Spatial Analysis, Environmental Studies
-
-CERTIFICATIONS:
-• Advanced SQL for Data Analysis
-• Financial Modeling & Valuation (In Progress)
-
-PROJECTS:
-• Tax Recovery Model: Increased revenue collection by 15% through predictive analytics
-• Retail Sales Analyzer: Python/Tableau dashboard that improved inventory planning
-• Behavioral Metrics Tracker: Reduced incident reporting time by 40%
-
-[Document End]
+## 📜 Certifications
+- Advanced SQL for Data Analysis  
+- Financial Modeling (In Progress)
+---
